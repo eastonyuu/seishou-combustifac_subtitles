@@ -26,6 +26,8 @@
 
 所有版本的字幕均适配**任何切了黑边的宽幅**，即 **1920x804** 分辨率的 BDRip 片源，不会再特意制作带黑边的 BDMV / BDRip 1080p 适配字幕。
 
+字幕包下载：[简体](https://github.com/EastonYuu/Seishou-Combustifac_Subtitles/raw/refs/heads/main/Movie/%5BSeishou%20Combustifac%5D%20Gekijouban%20Shoujo%20Kageki%20Revue%20Starlight%20%5BSubtitles%5D.chs.zip) | [繁體](https://github.com/EastonYuu/Seishou-Combustifac_Subtitles/raw/refs/heads/main/Movie/%5BSeishou%20Combustifac%5D%20Gekijouban%20Shoujo%20Kageki%20Revue%20Starlight%20%5BSubtitles%5D.cht.zip) | [字体包](https://pan.baidu.com/s/1omqvfgzxkEDkXctIJ5py0A?pwd=ukbq)
+
 - **更正说明：**
 
   - 暂无更正。
